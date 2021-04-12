@@ -1,2 +1,2 @@
 # Graph_Algorithm
-Graph Algorithms Programming Assignment 
+This assingment was part of Data Structures and Algoritms module.
